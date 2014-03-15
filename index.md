@@ -1,5 +1,7 @@
-Andrew E. Slaughter <br><h5>Computational Scientist at [Idaho National Laboratory](www.inl.gov)</h5>
-===================================================================
+<h1> Andrew E. Slaughter </h1> 
+<br> 
+<h5>Computational Scientist at [Idaho National Laboratory](www.inl.gov)</h5>
+
 Welcome
 -----------
 Curently, I am a Computational Scientist at Idaho National Laboratory developing the Multiphysics Object-Oriented Simulation Environment (MOOSE).
