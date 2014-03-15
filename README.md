@@ -1,8 +1,6 @@
-MDwiki Seed
-===========
+Personal Web Page for Andrew E Slaughter
+============================
 
-### A basic file layout template that you can fork to build your own websites or wikis with MDwiki.
-
-#### See <http://mdwiki.info/> for details and documentation.
+[http://aeslaughter.github.io](http://aeslaughter.github.io/#!index.md)
 
 
