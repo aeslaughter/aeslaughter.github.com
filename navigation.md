@@ -9,3 +9,6 @@
 
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](yeti)
+
+<!-- show a theme chooser in the menu bar -->
+[gimmick:ThemeChooser](Change theme)
