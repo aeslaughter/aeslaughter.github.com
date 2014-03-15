@@ -8,10 +8,7 @@
   * [YCweather](http://aeslaughter.github.io/YCweather/)
 
 <!-- set a default theme -->
-[gimmick:theme (inverse: false)](bootstrap)
+[gimmick:theme (inverse: false)](yeti)
 
 <!-- show a theme chooser in the menu bar -->
 [gimmick:ThemeChooser](Change theme)
-
-<!-- show a fork me on github ribbon -->
-[gimmick:forkmeongithub (color: 'red')](http://github.com/idaholab/moose-page/)
