@@ -10,7 +10,7 @@ This page gives a brief overview of my research, teaching interests, and open-so
 
 Education
 ------------
-* [Montana State University (MSU)[(www.montana.edu), 2010, PhD in Applied Mechanics
+* [Montana State University (MSU)](www.montana.edu), 2010, PhD in Applied Mechanics
 * [Washington State University (WSU)](www.wsu.edu), 2004, MS in Civil Engineering
 * [Michigan Technological University (MTU)](www.mtu.edu), 2002, BS in Civil Engineering
 
