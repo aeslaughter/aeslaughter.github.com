@@ -1,6 +1,5 @@
-<h1> Andrew E. Slaughter </h1> 
-<br> 
-<h5>Computational Scientist at [Idaho National Laboratory](www.inl.gov)</h5>
+Andrew E. Slaughter
+==================
 
 Welcome
 -----------
@@ -21,3 +20,9 @@ My primary research interest is understanding and modeling snow, especially as i
 Teaching Interests
 --------------------
 I am most interested in teaching courses in engineering and numerical methods, such as flow in porous media and continuum mechanics. I also would like to continue instructing fundamental engineering courses such as statics, mechanics, structural analysis, and finite element analysis. I am also interested in developing innovative curriculum, for example, a snow and ice mechanics course that covers topics such as the transversely isotropic properties of ice, thermal and micro-structural models of snow, and avalanche flow dynamics. I also would enjoy developing a graduate level course focusing on statistical applications in research.
+
+Past Projects
+========
+#### [National Science Founcation](www.nsf.gov) [Postdoctoral Fellow](www.nsf.gov/funding/pgm_summ.jsp?pims_id=503144) at [Cornell University](www.cornell.edu)
+[**"A Stochastic Phase-tracking Snow Micro-structure Model."**](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1049501) - [Project Code](aeslaughter.github.com/postdoc)
+The objective of the work proposed is to research the use of stochastic, phase-tracking finite element techniques common in modeling alloy solidification to model the evolution of the snow micro-structure.
