@@ -3,9 +3,9 @@ Andrew E. Slaughter
 
 Welcome
 -----------
-Curently, I am a Computational Scientist at [Idaho National Laboratory](http://www.inl.gov) developing the [Multiphysics Object-Oriented Simulation Environment (MOOSE)](http://www.mooseframework.com).
+Curently, I am a Computational Scientist at [Idaho National Laboratory](http://www.inl.gov) developing the Multiphysics Object-Oriented Simulation Environment (MOOSE).
 
-This page gives a brief overview of my research, teaching interests, and open-source code projects. For a more complete information please contact me at [andrew.e.slaughter@gmail.com](mailto:andrew.e.slaughter@gmail.com) for a complete Ciriculum Vitae.
+This page gives a brief overview of my research, teaching interests, and open-source code projects. For a more complete information please contact me at andrew.e.slaughter@gmail.com for a complete Ciriculum Vitae.
 
 Education
 -----------
@@ -45,7 +45,7 @@ Open Source Software Developed
 --------------------------------------
 I have developed a number of programs that are available on my [GitHub](http://github.com) site: [github.com/aeslaughter](http://github.com/aeslaughter). Below is a list and brief discussion explaining the work.
 
-* [Multiphisics Object Oriented Simulation Environment (MOOSE)](http://www.mooseframework.com): A finite-element, multiphysics framework that provides a high-level interface to highly sophisticated nonlinear solver technology.
+* Multiphisics Object Oriented Simulation Environment (MOOSE): A finite-element, multiphysics framework that provides a high-level interface to highly sophisticated nonlinear solver technology.
 * [mFEM](http://aeslaughter.github.com/mFEM): A object oriented MATLAB finite element library designed for education and rapid problem solving, including automatic assembly routines. 
 * [YCweather](http://aeslaughter.github.com/YCweather):  A tool for organizing and accessing weather data and field observations of near-surface metamorphism of snow. Details
 of the project that the software was designed for is provided in the article:  ["Field investigation of near-surface metamorphism of snow."](http://www.igsoc.org:8080/journal/57/203/j10J090.pdf).
@@ -55,4 +55,4 @@ of the project that the software was designed for is provided in the article:  [
 
 Contact
 ---------
-If you have any questions about my projects feel free to contact me at [andrew.e.slaughter@gmail.com](mailto:andrew.e.slaughter@gmail.com).
+If you have any questions about my projects feel free to contact me at andrew.e.slaughter@gmail.com.
