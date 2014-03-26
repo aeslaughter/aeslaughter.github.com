@@ -5,7 +5,7 @@ Welcome
 -----------
 Curently, I am a Computational Scientist at [Idaho National Laboratory](http://www.inl.gov) developing the [Multiphysics Object-Oriented Simulation Environment (MOOSE)](http://mooseframework.com).
 
-This page gives a brief overview of my research, teaching interests, and open-source code projects. For a more complete information please contact me at andrew.e.slaughter@gmail.com for a complete Ciriculum Vitae.
+This page gives a brief overview of my research, teaching interests, and open-source code projects. For a more complete information please contact me at [andrew.e.slaughter@gmail.com](mailto::andrew.e.slaughter@gmail.com) for a complete Ciriculum Vitae.
 
 Education
 -----------
@@ -52,7 +52,3 @@ of the project that the software was designed for is provided in the article:  [
 * [Snow Optics Toolbox](http://github.com/aeslaughter/optics): A set of MATLAB programs for viewing and analyzing images of snow developed for the study of the Bidirectional Reflectance Distribution Function (BRDF). This software was developed as a part of my MSU postdoctoral research.
 * [Snow Thermal Model](http://github.com/aeslaughter/thermal): A MATLAB based snow thermal model that was the basis of my PhD research.
 * [SMPToolkit](http://github.com/aeslaughter/SMPtoolkit): A MATLAB program for viewing and analyzing snow mirco penatrometer (SMP) data. 
-
-Contact
----------
-If you have any questions about my projects feel free to contact me at andrew.e.slaughter@gmail.com.
