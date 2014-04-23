@@ -24,7 +24,7 @@ I am most interested in teaching courses in engineering and numerical methods, s
 
 Past Projects
 --------------
-#### [National Science Founcation](http://www.nsf.gov) [Postdoctoral Fellow](www.nsf.gov/funding/pgm_summ.jsp?pims_id=503144) at [Cornell University](http://www.cornell.edu)
+#### [National Science Founcation](http://www.nsf.gov) [Postdoctoral Fellow](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503144) at [Cornell University](http://www.cornell.edu)
 ["A Stochastic Phase-tracking Snow Micro-structure Model."](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1049501) - [Project Code](http://aeslaughter.github.com/postdoc)
 The objective of the work proposed was to research the use of stochastic, phase-tracking finite element techniques common in modeling alloy solidification to model the evolution of the snow micro-structure.
 
