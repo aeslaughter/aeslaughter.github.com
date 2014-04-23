@@ -3,9 +3,9 @@ Andrew E. Slaughter
 
 Welcome
 -----------
-Curently, I am a Computational Scientist at [Idaho National Laboratory](http://www.inl.gov) developing the [Multiphysics Object-Oriented Simulation Environment (MOOSE)](http://mooseframework.com).
+Curently, I am a Computational Scientist at [Idaho National Laboratory](http://www.inl.gov) developing the [Multiphysics Object-Oriented Simulation Environment (MOOSE)](http://mooseframework.org).
 
-This page gives a brief overview of my research, teaching interests, and open-source code projects. For a more complete information please contact me at [andrew.e.slaughter@gmail.com](mailto::andrew.e.slaughter@gmail.com) for a complete Ciriculum Vitae.
+This page gives a brief overview of my research, teaching interests, and open-source code projects. For additional information please contact me at [andrew.e.slaughter@gmail.com](mailto::andrew.e.slaughter@gmail.com) for a complete Ciriculum Vitae.
 
 Education
 -----------
@@ -25,7 +25,7 @@ I am most interested in teaching courses in engineering and numerical methods, s
 Past Projects
 --------------
 #### [National Science Founcation](http://www.nsf.gov) [Postdoctoral Fellow](www.nsf.gov/funding/pgm_summ.jsp?pims_id=503144) at [Cornell University](http://www.cornell.edu)
-["A Stochastic Phase-tracking Snow Micro-structure Model."](www.nsf.gov/awardsearch/showAward.do?AwardNumber=1049501) - [Project Code](http://aeslaughter.github.com/postdoc)
+["A Stochastic Phase-tracking Snow Micro-structure Model."](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1049501) - [Project Code](http://aeslaughter.github.com/postdoc)
 The objective of the work proposed was to research the use of stochastic, phase-tracking finite element techniques common in modeling alloy solidification to model the evolution of the snow micro-structure.
 
 #### PhD research
@@ -45,7 +45,7 @@ Open Source Software Developed
 --------------------------------------
 I have developed a number of programs that are available on my [GitHub](http://github.com) site: [github.com/aeslaughter](http://github.com/aeslaughter). Below is a list and brief discussion explaining the work.
 
-* [Multiphisics Object Oriented Simulation Environment (MOOSE)](http://mooseframework.com): A finite-element, multiphysics framework that provides a high-level interface to highly sophisticated nonlinear solver technology.
+* [Multiphisics Object Oriented Simulation Environment (MOOSE)](http://mooseframework.org): A finite-element, multiphysics framework that provides a high-level interface to highly sophisticated nonlinear solver technology.
 * [mFEM](http://aeslaughter.github.com/mFEM): A object oriented MATLAB finite element library designed for education and rapid problem solving, including automatic assembly routines. 
 * [YCweather](http://aeslaughter.github.com/YCweather):  A tool for organizing and accessing weather data and field observations of near-surface metamorphism of snow. Details
 of the project that the software was designed for is provided in the article:  ["Field investigation of near-surface metamorphism of snow."](http://www.igsoc.org:8080/journal/57/203/j10J090.pdf).
