@@ -3,7 +3,7 @@ Andrew E. Slaughter
 
 Welcome
 -----------
-Curently, I am a Computational Scientist at [Idaho National Laboratory](http://www.inl.gov) developing the [Multiphysics Object-Oriented Simulation Environment (MOOSE)](http://mooseframework.org).
+Currently, I am a Computational Scientist at [Idaho National Laboratory](http://www.inl.gov) developing the [Multiphysics Object-Oriented Simulation Environment (MOOSE)](http://mooseframework.org).
 
 This page gives a brief overview of my research, teaching interests, and open-source code projects. For additional information please contact me at [andrew.e.slaughter@gmail.com](mailto::andrew.e.slaughter@gmail.com) for a complete Ciriculum Vitae.
 
